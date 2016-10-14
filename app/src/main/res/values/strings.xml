@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QaoQaoApplication</string>
+
+    <!--登陆界面-->
+    <string name="login_activity_login">登陆</string>
+
+    <!--主界面-->
+    <string name="main_activity_send">发送</string>
+    <string name="main_activity_clean">清空</string>
+    <string name="main_activity_reconnect">重连</string>
+</resources>
